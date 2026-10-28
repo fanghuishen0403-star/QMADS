@@ -1,9 +1,9 @@
-# QMADS
+# QMADS.zip
 
 This repository contains the raw experimental data (original data) for the
 flexible job-shop scheduling problem with workers (FFJSPW), including results
 of the proposed QMADS algorithm, its variants, and the compared baseline
 algorithms.
 
-# FW
+# FW.zip
 FW is the input data of the FFJSPW.
